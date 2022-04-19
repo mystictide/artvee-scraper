@@ -4,3 +4,5 @@
 
 ## Why?
 Because Artvee does not yet offer an API and I need a collection of public domain artwork for another project.
+<br />
+..And because it was a decent enough reason for me to finally give Python a shot.

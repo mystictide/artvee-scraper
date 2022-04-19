@@ -1,2 +1,6 @@
-downloads
-json
+artvee-downloads
+artvee-json
+__pycache__
+build
+dist
+*.spec
